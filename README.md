@@ -86,8 +86,3 @@ Com essa alteração, a coluna "Data da Venda" (ou qualquer outra coluna que apa
 - Adicionar um `requirements.txt` se decidir usar bibliotecas externas (pandas, pytest, etc.).
 - Incluir um exemplo mínimo de `notebooks/` demonstrando leitura do `dados_combinados.csv` e análise rápida.
 
-## Licença
-
-Este repositório contém código de aprendizado. Inclua aqui a licença desejada antes de publicar no GitHub (por exemplo, MIT) se pretende abrir o repositório publicamente.
-
----
