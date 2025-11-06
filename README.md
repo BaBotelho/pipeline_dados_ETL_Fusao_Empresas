@@ -91,5 +91,3 @@ Com essa alteração, a coluna "Data da Venda" (ou qualquer outra coluna que apa
 Este repositório contém código de aprendizado. Inclua aqui a licença desejada antes de publicar no GitHub (por exemplo, MIT) se pretende abrir o repositório publicamente.
 
 ---
-
-Se quiser, eu aplico a correção automática em `processamento_dados.py` (faço o patch que mencionei) e adiciono um `requirements.txt` com `python>=3.8` e `pytest` como desenvolvimento, além de rodar um teste rápido para validar que `Data da Venda` aparece nas colunas finais. Quer que eu faça isso agora?
